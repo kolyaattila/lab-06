@@ -1,5 +1,6 @@
 Prezenta
 
+
 Mihoc Rebeca
 Schmidt Erik-Szabolcs
 Moza Sorina
@@ -8,4 +9,7 @@ Marusca Raul-Constantin
 
 
 Robotin Sergiu
+
+
+Tcaciov Daniel
 
